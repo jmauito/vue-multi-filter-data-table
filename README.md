@@ -8,3 +8,26 @@ Desarrollo de la solución para construir multifiltros de una data table de Vuet
 
 Agradecimientos: Jayanta Barman
 
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
